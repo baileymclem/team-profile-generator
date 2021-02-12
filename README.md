@@ -19,7 +19,7 @@ A node CLI app that generates a team profile and renders the results in HTML.
 
 ## Contributing
 
-undefined
+Fork, pull, and drop me a line.
 
 ## Tests
 
@@ -28,4 +28,4 @@ Install jest as a dependency then run npm run test in your terminal.
 ## Questions, Comments, Issues
 
 Email me at- [baileymclem@gmail.com](baileymclem@gmail.com)
-Or visit my Github profile- baileymclem
+Or visit my Github profile- [baileymclem](https://github.com/baileymclem)
