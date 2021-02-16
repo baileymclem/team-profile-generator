@@ -20,7 +20,7 @@ A node CLI app that generates a team profile and renders the results in HTML.
 
 ## Usage
 
-![!Demo](./assets/demo.gif)
+![!Demo](Assets/demo.gif)
 
 
 ## Contributing
