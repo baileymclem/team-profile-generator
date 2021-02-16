@@ -11,15 +11,21 @@ A node CLI app that generates a team profile and renders the results in HTML.
 
 ## Installation
 
+- Open terminal and run `git clone https://github.com/baileymclem/team-profile-generator`
+- Run `npm i` to intall dependencies
+- Run `node app.js`
+- HTML page will generate in the output folder
+
 
 
 ## Usage
 
+![!Demo](./assets/demo.gif)
 
 
 ## Contributing
 
-Fork, pull, and drop me a line.
+Contributions welcomed!
 
 ## Tests
 
